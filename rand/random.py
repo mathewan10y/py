@@ -1,4 +1,4 @@
-
+        
 import random
 x=random.randint(0,6)  # random no between 0 and 6 (including decimal)
 list=['hey']

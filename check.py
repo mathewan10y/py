@@ -5,4 +5,5 @@ for i in range(1,10):
       s=a*i
       print('\t\t',a,"  X  ",i,"  =  ",s)
 
+
       
