@@ -34,5 +34,5 @@ class Fish(Prey,Predator):
 class Lion(Predator):
     pass 
     
-lion=Lion()
-lion.hunt()
+lion=Lion()    # object1
+lion.hunt()    # object2
