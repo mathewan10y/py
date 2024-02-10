@@ -26,5 +26,6 @@ class Car:
         print('this' ,self.model, 'is driving')
     def stop(self):                        #method 2
         print('this car is stopped')
-
         pass
+
+    

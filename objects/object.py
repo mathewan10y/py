@@ -1,6 +1,8 @@
 from car import Car
 
 car_1=Car('chevy','corvette','2020','blue') # class object
+
+# 'chevy','corvette',etc== make,model,etc are the attributes of the object 
 print(car_1.make)
 print(car_1.model)
 print(car_1.year)
