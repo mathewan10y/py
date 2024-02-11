@@ -1,3 +1,5 @@
+
+'''passing objects as arguements'''
 class Car:
     color=None
 
